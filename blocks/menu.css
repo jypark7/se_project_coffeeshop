@@ -13,6 +13,7 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  text-align: center;
 }
 
 .menu__subtitle {
@@ -33,12 +34,4 @@
   flex-wrap: wrap;
   gap: 100px;
   justify-content: center;
-}
-
-.section__menu {
-font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 44px;
-  line-height: 52px;
 }
