@@ -6,7 +6,9 @@
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  background-image: url(../images/background_header.svg)
+  background-image: url(../images/background_header.svg);
+  background-size: cover;
+  background-position: center;
 }
 
 .header__image{
@@ -22,9 +24,8 @@
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   font-size: 60px;
-  line-height: 72px;
+  line-height: 70px;
   letter-spacing: -0.6px;
-  max-width: 729px;
 }
 
 .header__span-accent {
