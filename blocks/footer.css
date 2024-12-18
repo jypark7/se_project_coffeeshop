@@ -35,6 +35,11 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+
+}
+
+.footer__social-link:hover {
+  opacity: 0.5;
 }
 
 .footer__social-icon {
