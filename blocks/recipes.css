@@ -32,7 +32,7 @@
   gap: 40px;
   justify-content: center;
   list-style: none;
-  margin-bottom: 215px;
+  margin-bottom: 0;
   margin-top: 80px;
   padding: 0;
 }
@@ -46,7 +46,7 @@
   font-size: 20px;
   line-height: 30px;
   color: white;
-  margin: 0;
+  margin: 24px 0 0;
 }
 
 .recipes__video-item {
